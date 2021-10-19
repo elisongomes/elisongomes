@@ -8,5 +8,5 @@ I'm a Brazilian Software Engineer and work with technology for 20+ years, but ev
 
 Currently I'm focused on
 
-- 🔭 Creating and solving nice things at [@Superlogica](https://github.com/Superlogica/)
+- 🔭 Creating and solving nice things at [@MercadoLibre](https://github.com/MercadoLibre/)
 - 🌱 Studying Software Architecture and High Performance
